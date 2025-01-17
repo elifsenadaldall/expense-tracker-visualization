@@ -1,0 +1,116 @@
+Type,Date,Category,Amount,Description
+Expense,2024-12-01,Food,150,Grocery shopping
+Income,2024-12-05,Salary,3200,Part-time job
+Expense,2024-12-10,Rent,1600,Monthly rent
+Expense,2024-12-12,Transportation,50,Bus pass
+Expense,2024-12-15,Clothing,200,Winter jacket
+Income,2024-12-20,Cash Back,30,Credit card rewards
+Expense,2024-12-22,Entertainment,120,Movie night
+Expense,2024-12-27,Health,70,Pharmacy
+Expense,2024-11-01,Food,180,Grocery shopping
+Income,2024-11-05,Salary,3100,Part-time job
+Expense,2024-11-10,Rent,1500,Monthly rent
+Expense,2024-11-15,Transportation,60,Fuel
+Expense,2024-11-20,Health,80,Gym membership
+Income,2024-11-25,Financial Gains,200,Investment return
+Expense,2024-10-05,Entertainment,150,Concert tickets
+Expense,2024-10-10,Clothing,100,New shoes
+Income,2024-10-15,Cash Back,25,Credit card cashback
+Expense,2024-10-20,Food,200,Dining out
+Income,2024-09-01,Salary,3200,Full-time job
+Expense,2024-09-07,Rent,1400,Monthly rent
+Expense,2024-09-12,Transportation,70,Fuel
+Expense,2024-09-17,Health,60,Pharmacy
+Expense,2024-09-25,Entertainment,90,Movie tickets
+Income,2024-08-01,Salary,3000,Part-time job
+Expense,2024-08-10,Food,170,Grocery shopping
+Expense,2024-08-15,Transportation,40,Bus pass
+Expense,2024-08-22,Rent,1350,Monthly rent
+Income,2024-07-05,Financial Gains,500,Stock dividends
+Expense,2024-07-12,Health,80,Pharmacy
+Expense,2024-07-18,Entertainment,100,Streaming subscription
+Expense,2024-07-25,Clothing,120,Summer wardrobe
+Expense,2024-06-01,Food,200,Dining out
+Income,2024-06-10,Salary,3200,Full-time job
+Expense,2024-06-15,Rent,1500,Monthly rent
+Expense,2024-06-22,Transportation,50,Bus pass
+Expense,2024-05-10,Health,60,Gym membership
+Expense,2024-05-20,Entertainment,150,Concert tickets
+Income,2024-05-25,Financial Gains,300,Investment return
+Expense,2024-04-05,Food,180,Grocery shopping
+Expense,2024-04-12,Rent,1400,Monthly rent
+Income,2024-03-01,Salary,2900,Part-time job
+Expense,2024-03-10,Transportation,40,Bus pass
+Expense,2024-03-15,Health,70,Pharmacy
+Expense,2024-03-25,Clothing,150,Winter wardrobe
+Expense,2024-02-01,Entertainment,120,Movie night
+Income,2024-02-10,Cash Back,50,Credit card cashback
+Expense,2024-01-15,Food,150,Grocery shopping
+Expense,2024-01-25,Transportation,30,Bus pass
+Income,2024-01-30,Salary,2700,Full-time job
+Expense,2023-12-01,Rent,1300,Monthly rent
+Expense,2023-12-12,Entertainment,100,Streaming subscription
+Income,2023-12-25,Financial Gains,200,Investment return
+Expense,2023-11-01,Health,60,Pharmacy
+Expense,2023-11-15,Food,170,Dining out
+Income,2023-10-01,Salary,2600,Part-time job
+Expense,2023-10-10,Transportation,50,Bus pass
+Expense,2023-10-20,Clothing,80,New jacket
+Expense,2023-09-12,Rent,1200,Monthly rent
+Income,2023-08-01,Financial Gains,300,Stock dividends
+Expense,2023-08-15,Entertainment,90,Movie tickets
+Expense,2023-08-25,Health,50,Pharmacy
+Expense,2023-07-01,Food,150,Grocery shopping
+Expense,2023-07-15,Transportation,40,Bus pass
+Income,2023-06-10,Salary,2500,Full-time job
+Expense,2023-06-20,Rent,1100,Monthly rent
+Expense,2023-06-25,Clothing,100,New shoes
+Income,2023-05-01,Cash Back,20,Credit card cashback
+Expense,2023-05-10,Food,200,Dining out
+Expense,2023-04-01,Health,70,Gym membership
+Income,2023-04-12,Financial Gains,100,Investment return
+Expense,2023-03-20,Entertainment,150,Concert tickets
+Expense,2023-02-10,Rent,1050,Monthly rent
+Expense,2023-01-01,Transportation,50,Bus pass
+Income,2023-01-15,Salary,2200,Part-time job
+Expense,2022-12-10,Clothing,150,Winter jacket
+Income,2022-11-20,Salary,2100,Full-time job
+Expense,2022-11-25,Food,150,Grocery shopping
+Expense,2022-10-05,Health,80,Pharmacy
+Expense,2022-09-10,Transportation,40,Bus pass
+Income,2022-09-20,Financial Gains,200,Stock dividends
+Expense,2022-08-15,Rent,1000,Monthly rent
+Expense,2022-07-20,Entertainment,100,Streaming subscription
+Expense,2022-07-25,Clothing,120,Summer wardrobe
+Income,2022-06-01,Cash Back,25,Credit card cashback
+Expense,2022-05-10,Food,180,Grocery shopping
+Expense,2022-04-05,Rent,950,Monthly rent
+Expense,2022-03-20,Transportation,60,Fuel
+Income,2022-03-25,Salary,2000,Part-time job
+Expense,2022-02-15,Health,50,Gym membership
+Income,2022-01-12,Financial Gains,150,Investment return
+Expense,2022-01-20,Entertainment,90,Movie tickets
+Expense,2021-12-01,Rent,900,Monthly rent
+Expense,2021-11-15,Food,150,Grocery shopping
+Income,2021-10-20,Salary,1800,Part-time job
+Expense,2021-09-12,Transportation,40,Bus pass
+Expense,2021-08-01,Health,70,Pharmacy
+Income,2021-07-10,Financial Gains,100,Stock dividends
+Expense,2021-06-15,Clothing,90,New shoes
+Expense,2021-05-20,Food,150,Dining out
+Income,2021-04-01,Cash Back,20,Credit card cashback
+Expense,2021-03-10,Entertainment,100,Concert tickets
+Expense,2021-02-01,Rent,850,Monthly rent
+Income,2021-01-15,Salary,1700,Part-time job
+Expense,2020-12-01,Transportation,40,Bus pass
+Expense,2020-11-12,Health,50,Gym membership
+Income,2020-10-01,Financial Gains,80,Investment return
+Expense,2020-09-05,Food,150,Grocery shopping
+Expense,2020-08-20,Clothing,100,New jacket
+Income,2020-07-10,Salary,1600,Full-time job
+Expense,2020-06-12,Entertainment,120,Movie tickets
+Expense,2020-05-10,Rent,800,Monthly rent
+Expense,2020-04-01,Transportation,30,Bus pass
+Income,2020-03-15,Cash Back,10,Credit card cashback
+Expense,2020-02-10,Health,50,Pharmacy
+Expense,2020-01-01,Food,150,Dining out
